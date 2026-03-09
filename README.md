@@ -1,5 +1,3 @@
----
-
 ## 💼 Professional Focus
 
 I specialize in designing and architecting:
